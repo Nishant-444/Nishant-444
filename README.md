@@ -1,4 +1,4 @@
-<div align="center" autoplay>
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
 </div>
 <h1 align="center">Hello World👋, I'm Nishant Sharma!!</h1>
