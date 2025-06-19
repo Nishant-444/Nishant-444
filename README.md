@@ -80,4 +80,4 @@ Let's connect and build something amazing together! 🌐
 [![](https://visitcount.itsvg.in/api?id=nishant-444&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ### 📧 Let's Connect!
-**Email:** business.nishant777@gmail.com | **Location:** Jaipur, Rajasthan | **Phone:** +91 635-043-5068
+**Email:** business.nishant777@gmail.com
