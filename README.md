@@ -9,7 +9,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views?username=nishant-444&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/nishant-444?label=Followers&style=flat-square&color=blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" />
 </p>
