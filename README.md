@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello World, I'm Nishant Sharma! 🚀</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;C%2B%2B+Expert;Building+Amazing+Web+Experiences!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Backend+Developer;Software+Engineer;Problem+Solver;C%2B%2B+Expert;Building+Amazing+Web+Experiences!" />
 </div>
 
 <p align="center">
