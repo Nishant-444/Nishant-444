@@ -136,9 +136,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishant-444&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-444&theme=tokyonight&hide_border=true" width="48%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-444&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishant-444&theme=tokyonight" width="48%" />
 
