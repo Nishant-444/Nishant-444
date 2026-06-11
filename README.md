@@ -51,4 +51,4 @@ Passionate about architecting scalable backend systems, optimizing database perf
 ---
 
 ## 🌐 Connect & Collaborate
-[LinkedIn](https://linkedin.com/in/nishant-developer) | [Portfolio](https://nishantsharma.vercel.app) | [HackerRank](https://hackerrank.com/business_nishan1) | [Email](mailto:business.nishant777@gmail.com)
+[LinkedIn](https://linkedin.com/in/nishant-developer) | [Portfolio](https://nishants.dev) | [HackerRank](https://hackerrank.com/business_nishan1) | [Email](mailto:business.nishant777@gmail.com)
