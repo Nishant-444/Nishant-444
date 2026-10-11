@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nishants.dev"><img src="https://img.shields.io/badge/Portfolio-nishants.dev-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://nishantsharma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Nishant-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nishant-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:business.nishant777@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
